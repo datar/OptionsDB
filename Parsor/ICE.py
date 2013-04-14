@@ -4,6 +4,8 @@ Created on 2013-2-20
 @author: CHEN Xing
 @contact: chenxing@live.com
 '''
+
+import lxml.html
 import xml.etree.ElementTree as ET
 import DataGettor.URL
 
@@ -26,12 +28,9 @@ def main():
     #data = getPageData(15, 2, 2013, 'SO')
     #savePageData(data)
     pageData = open('ice_data.txt').read()
-    start = pageData.find('<body>')
-    end = pageData.find('</body>')+len('</body>')
-    root = ET.fromstring(pageData[start:end])
-    print root.tag
-    for child in root:
-        print child.tag
+    html = lxml.html.fromstring(pageData)
+    for e in html:
+        print e.tag
 
 if __name__ == '__main__':
     main()
