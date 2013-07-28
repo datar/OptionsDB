@@ -328,3 +328,4 @@
 2013-07-28 22:23:01.524000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130421.htm
 2013-07-28 22:23:01.524000::Get HSIO info by date 130420
 2013-07-28 22:23:01.783000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130420.htm
+2013-07-28 22:44:18.928000::Get COMEX info by date 210130726
