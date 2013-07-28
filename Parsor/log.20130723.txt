@@ -1,0 +1,208 @@
+2013-07-23 00:18:06.041000::Get HSIF info by date 130719
+2013-07-23 00:18:06.370000::Get HSIF info size::2825
+2013-07-23 00:18:06.371000::Get HSIF clear info 4 lines
+2013-07-23 00:18:39.845000::Get HSIF info by date 130720
+2013-07-23 00:28:05.271000::Get HSIF info by date 130720
+2013-07-23 00:28:25.868000::Get HSIF info by date 130720
+2013-07-23 00:28:26.064000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130720.htm
+2013-07-23 00:45:39.502000::Get HSIF info by date 130723
+2013-07-23 00:45:40.325000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130723.htm
+2013-07-23 00:45:40.325000::Get HSIF info by date 130722
+2013-07-23 00:47:55.752000::Get HSIF info by date 130723
+2013-07-23 00:47:56.278000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130723.htm
+2013-07-23 00:47:56.279000::Get HSIF info by date 130722
+2013-07-23 00:47:56.589000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130722.htm
+2013-07-23 00:47:56.589000::Get HSIF info size::2825
+2013-07-23 00:47:56.590000::Get HSIF clear info 4 lines
+2013-07-23 00:47:56.591000::Get HSIF info by date 130721
+2013-07-23 00:47:56.778000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130721.htm
+2013-07-23 00:47:56.778000::Get HSIF info by date 130720
+2013-07-23 00:47:56.963000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130720.htm
+2013-07-23 00:47:56.963000::Get HSIF info by date 130719
+2013-07-23 00:47:57.258000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130719.htm
+2013-07-23 00:47:57.258000::Get HSIF info size::2825
+2013-07-23 00:47:57.259000::Get HSIF clear info 4 lines
+2013-07-23 00:47:57.259000::Get HSIF info by date 130718
+2013-07-23 00:47:57.533000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130718.htm
+2013-07-23 00:47:57.533000::Get HSIF info size::2825
+2013-07-23 00:47:57.533000::Get HSIF clear info 4 lines
+2013-07-23 00:47:57.534000::Get HSIF info by date 130717
+2013-07-23 00:47:57.815000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130717.htm
+2013-07-23 00:47:57.815000::Get HSIF info size::2825
+2013-07-23 00:47:57.816000::Get HSIF clear info 4 lines
+2013-07-23 00:47:57.816000::Get HSIF info by date 130716
+2013-07-23 00:47:58.110000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130716.htm
+2013-07-23 00:47:58.110000::Get HSIF info size::2825
+2013-07-23 00:47:58.110000::Get HSIF clear info 4 lines
+2013-07-23 00:47:58.110000::Get HSIF info by date 130715
+2013-07-23 00:47:58.430000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130715.htm
+2013-07-23 00:47:58.430000::Get HSIF info size::2825
+2013-07-23 00:47:58.430000::Get HSIF clear info 4 lines
+2013-07-23 00:47:58.432000::Get HSIF info by date 130714
+2013-07-23 00:47:58.637000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130714.htm
+2013-07-23 00:47:58.637000::Get HSIF info by date 130713
+2013-07-23 00:47:58.821000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130713.htm
+2013-07-23 00:47:58.822000::Get HSIF info by date 130712
+2013-07-23 00:47:59.125000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130712.htm
+2013-07-23 00:47:59.126000::Get HSIF info size::2825
+2013-07-23 00:47:59.126000::Get HSIF clear info 4 lines
+2013-07-23 00:47:59.126000::Get HSIF info by date 130711
+2013-07-23 00:47:59.419000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130711.htm
+2013-07-23 00:47:59.419000::Get HSIF info size::2825
+2013-07-23 00:47:59.420000::Get HSIF clear info 4 lines
+2013-07-23 00:47:59.420000::Get HSIF info by date 130710
+2013-07-23 00:47:59.721000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130710.htm
+2013-07-23 00:47:59.722000::Get HSIF info size::2825
+2013-07-23 00:47:59.722000::Get HSIF clear info 4 lines
+2013-07-23 00:47:59.722000::Get HSIF info by date 130709
+2013-07-23 00:48:00.015000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130709.htm
+2013-07-23 00:48:00.015000::Get HSIF info size::2825
+2013-07-23 00:48:00.015000::Get HSIF clear info 4 lines
+2013-07-23 00:48:00.016000::Get HSIF info by date 130708
+2013-07-23 00:48:00.288000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130708.htm
+2013-07-23 00:48:00.288000::Get HSIF info size::2825
+2013-07-23 00:48:00.288000::Get HSIF clear info 4 lines
+2013-07-23 00:48:00.290000::Get HSIF info by date 130707
+2013-07-23 00:48:00.495000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130707.htm
+2013-07-23 00:48:00.495000::Get HSIF info by date 130706
+2013-07-23 00:48:00.696000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130706.htm
+2013-07-23 00:48:00.696000::Get HSIF info by date 130705
+2013-07-23 00:48:00.979000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130705.htm
+2013-07-23 00:48:00.979000::Get HSIF info size::2825
+2013-07-23 00:48:00.979000::Get HSIF clear info 4 lines
+2013-07-23 00:48:00.980000::Get HSIF info by date 130704
+2013-07-23 00:48:01.272000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130704.htm
+2013-07-23 00:48:01.272000::Get HSIF info size::2825
+2013-07-23 00:48:01.272000::Get HSIF clear info 4 lines
+2013-07-23 00:48:01.273000::Get HSIF info by date 130703
+2013-07-23 00:48:01.585000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130703.htm
+2013-07-23 00:48:01.585000::Get HSIF info size::2825
+2013-07-23 00:48:01.585000::Get HSIF clear info 4 lines
+2013-07-23 00:48:01.586000::Get HSIF info by date 130702
+2013-07-23 00:48:01.879000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130702.htm
+2013-07-23 00:48:01.879000::Get HSIF info size::2825
+2013-07-23 00:48:01.879000::Get HSIF clear info 4 lines
+2013-07-23 00:48:01.879000::Get HSIF info by date 130701
+2013-07-23 00:48:02.084000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130701.htm
+2013-07-23 00:48:02.084000::Get HSIF info by date 130630
+2013-07-23 00:48:02.295000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130630.htm
+2013-07-23 00:48:02.295000::Get HSIF info by date 130629
+2013-07-23 00:48:02.518000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130629.htm
+2013-07-23 00:48:02.518000::Get HSIF info by date 130628
+2013-07-23 00:48:02.833000::Get 2964 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130628.htm
+2013-07-23 00:48:02.833000::Get HSIF info size::2964
+2013-07-23 00:48:02.833000::Get HSIF clear info 4 lines
+2013-07-23 00:48:02.836000::Get HSIF info by date 130627
+2013-07-23 00:48:03.128000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130627.htm
+2013-07-23 00:48:03.128000::Get HSIF info size::2825
+2013-07-23 00:48:03.128000::Get HSIF clear info 4 lines
+2013-07-23 00:48:03.128000::Get HSIF info by date 130626
+2013-07-23 00:48:03.426000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130626.htm
+2013-07-23 00:48:03.426000::Get HSIF info size::2825
+2013-07-23 00:48:03.427000::Get HSIF clear info 4 lines
+2013-07-23 00:48:03.427000::Get HSIF info by date 130625
+2013-07-23 00:48:03.723000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130625.htm
+2013-07-23 00:48:03.723000::Get HSIF info size::2825
+2013-07-23 00:48:03.724000::Get HSIF clear info 4 lines
+2013-07-23 00:48:03.724000::Get HSIF info by date 130624
+2013-07-23 00:48:04.013000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130624.htm
+2013-07-23 00:48:04.014000::Get HSIF info size::2825
+2013-07-23 00:48:04.014000::Get HSIF clear info 4 lines
+2013-07-23 00:48:04.014000::Get HSIF info by date 130623
+2013-07-23 00:48:04.202000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130623.htm
+2013-07-23 00:48:04.203000::Get HSIF info by date 130622
+2013-07-23 00:48:04.387000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130622.htm
+2013-07-23 00:48:04.387000::Get HSIF info by date 130621
+2013-07-23 00:48:04.686000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130621.htm
+2013-07-23 00:48:04.686000::Get HSIF info size::2825
+2013-07-23 00:48:04.687000::Get HSIF clear info 4 lines
+2013-07-23 00:48:04.687000::Get HSIF info by date 130620
+2013-07-23 00:48:04.993000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130620.htm
+2013-07-23 00:48:04.994000::Get HSIF info size::2825
+2013-07-23 00:48:04.994000::Get HSIF clear info 4 lines
+2013-07-23 00:48:04.994000::Get HSIF info by date 130619
+2013-07-23 00:48:05.314000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130619.htm
+2013-07-23 00:48:05.314000::Get HSIF info size::2825
+2013-07-23 00:48:05.314000::Get HSIF clear info 4 lines
+2013-07-23 00:48:05.315000::Get HSIF info by date 130618
+2013-07-23 00:48:05.625000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130618.htm
+2013-07-23 00:48:05.625000::Get HSIF info size::2825
+2013-07-23 00:48:05.626000::Get HSIF clear info 4 lines
+2013-07-23 00:48:05.626000::Get HSIF info by date 130617
+2013-07-23 00:48:05.947000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130617.htm
+2013-07-23 00:48:05.947000::Get HSIF info size::2825
+2013-07-23 00:48:05.947000::Get HSIF clear info 4 lines
+2013-07-23 00:48:05.949000::Get HSIF info by date 130616
+2013-07-23 00:48:06.156000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130616.htm
+2013-07-23 00:48:06.156000::Get HSIF info by date 130615
+2013-07-23 00:48:06.355000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130615.htm
+2013-07-23 00:48:06.355000::Get HSIF info by date 130614
+2013-07-23 00:48:06.647000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130614.htm
+2013-07-23 00:48:06.647000::Get HSIF info size::2825
+2013-07-23 00:48:06.648000::Get HSIF clear info 4 lines
+2013-07-23 00:48:06.648000::Get HSIF info by date 130613
+2013-07-23 00:48:06.938000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130613.htm
+2013-07-23 00:48:06.938000::Get HSIF info size::2825
+2013-07-23 00:48:06.939000::Get HSIF clear info 4 lines
+2013-07-23 00:48:06.939000::Get HSIF info by date 130612
+2013-07-23 00:48:07.141000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130612.htm
+2013-07-23 00:48:07.141000::Get HSIF info by date 130611
+2013-07-23 00:48:07.434000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130611.htm
+2013-07-23 00:48:07.434000::Get HSIF info size::2825
+2013-07-23 00:48:07.434000::Get HSIF clear info 4 lines
+2013-07-23 00:48:07.436000::Get HSIF info by date 130610
+2013-07-23 00:48:07.750000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130610.htm
+2013-07-23 00:48:07.750000::Get HSIF info size::2825
+2013-07-23 00:48:07.751000::Get HSIF clear info 4 lines
+2013-07-23 00:48:07.751000::Get HSIF info by date 130609
+2013-07-23 00:48:07.963000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130609.htm
+2013-07-23 00:48:07.964000::Get HSIF info by date 130608
+2013-07-23 00:48:08.542000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130608.htm
+2013-07-23 00:48:08.543000::Get HSIF info by date 130607
+2013-07-23 00:48:08.845000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130607.htm
+2013-07-23 00:48:08.845000::Get HSIF info size::2825
+2013-07-23 00:48:08.845000::Get HSIF clear info 4 lines
+2013-07-23 00:48:08.845000::Get HSIF info by date 130606
+2013-07-23 00:48:09.136000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130606.htm
+2013-07-23 00:48:09.136000::Get HSIF info size::2825
+2013-07-23 00:48:09.137000::Get HSIF clear info 4 lines
+2013-07-23 00:48:09.137000::Get HSIF info by date 130605
+2013-07-23 00:48:09.441000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130605.htm
+2013-07-23 00:48:09.441000::Get HSIF info size::2825
+2013-07-23 00:48:09.441000::Get HSIF clear info 4 lines
+2013-07-23 00:48:09.442000::Get HSIF info by date 130604
+2013-07-23 00:48:09.728000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130604.htm
+2013-07-23 00:48:09.728000::Get HSIF info size::2825
+2013-07-23 00:48:09.728000::Get HSIF clear info 4 lines
+2013-07-23 00:48:09.730000::Get HSIF info by date 130603
+2013-07-23 00:48:10.034000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130603.htm
+2013-07-23 00:48:10.034000::Get HSIF info size::2825
+2013-07-23 00:48:10.034000::Get HSIF clear info 4 lines
+2013-07-23 00:48:10.035000::Get HSIF info by date 130602
+2013-07-23 00:48:10.329000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130602.htm
+2013-07-23 00:48:10.329000::Get HSIF info by date 130601
+2013-07-23 00:48:10.624000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130601.htm
+2013-07-23 00:48:10.624000::Get HSIF info by date 130531
+2013-07-23 00:48:10.917000::Get 2964 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130531.htm
+2013-07-23 00:48:10.917000::Get HSIF info size::2964
+2013-07-23 00:48:10.917000::Get HSIF clear info 4 lines
+2013-07-23 00:48:10.918000::Get HSIF info by date 130530
+2013-07-23 00:48:11.214000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130530.htm
+2013-07-23 00:48:11.215000::Get HSIF info size::2825
+2013-07-23 00:48:11.215000::Get HSIF clear info 4 lines
+2013-07-23 00:48:11.215000::Get HSIF info by date 130529
+2013-07-23 00:48:11.502000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130529.htm
+2013-07-23 00:48:11.502000::Get HSIF info size::2825
+2013-07-23 00:48:11.503000::Get HSIF clear info 4 lines
+2013-07-23 00:48:11.504000::Get HSIF info by date 130528
+2013-07-23 00:48:11.793000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130528.htm
+2013-07-23 00:48:11.794000::Get HSIF info size::2825
+2013-07-23 00:48:11.794000::Get HSIF clear info 4 lines
+2013-07-23 00:48:11.794000::Get HSIF info by date 130527
+2013-07-23 00:48:12.081000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130527.htm
+2013-07-23 00:48:12.081000::Get HSIF info size::2825
+2013-07-23 00:48:12.081000::Get HSIF clear info 4 lines
+2013-07-23 00:48:12.082000::Get HSIF info by date 130526
+2013-07-23 00:48:12.355000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130526.htm
+2013-07-23 00:48:12.355000::Get HSIF info by date 130525
+2013-07-23 00:48:12.656000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130525.htm

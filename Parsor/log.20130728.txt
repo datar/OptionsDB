@@ -1,0 +1,330 @@
+2013-07-28 16:31:59.680000::Get HSIF info by date 130728
+2013-07-28 16:32:00.317000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130728.htm
+2013-07-28 16:32:00.317000::Get HSIF info by date 130727
+2013-07-28 16:32:00.489000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130727.htm
+2013-07-28 16:32:00.489000::Get HSIF info by date 130726
+2013-07-28 16:32:00.665000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130726.htm
+2013-07-28 16:32:00.665000::Get HSIF info size::2825
+2013-07-28 16:32:00.665000::Get HSIF clear info 4 lines
+2013-07-28 16:32:00.666000::Get HSIF info by date 130725
+2013-07-28 16:32:00.841000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130725.htm
+2013-07-28 16:32:00.841000::Get HSIF info size::2825
+2013-07-28 16:32:00.841000::Get HSIF clear info 4 lines
+2013-07-28 16:32:01.171000::Get HSIF info by date 130724
+2013-07-28 16:32:01.341000::Get 2825 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsif130724.htm
+2013-07-28 16:32:01.341000::Get HSIF info size::2825
+2013-07-28 16:32:01.342000::Get HSIF clear info 4 lines
+2013-07-28 22:18:56.281000::Get HSIO info by date 130728
+2013-07-28 22:18:56.790000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130728.htm
+2013-07-28 22:18:56.790000::Get HSIO info by date 130727
+2013-07-28 22:18:56.977000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130727.htm
+2013-07-28 22:18:56.977000::Get HSIO info by date 130726
+2013-07-28 22:18:57.622000::Get 97499 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130726.htm
+2013-07-28 22:18:57.622000::Get HSIO info size::97499
+2013-07-28 22:18:57.631000::Get HSIO clear info 0 lines
+2013-07-28 22:18:57.632000::Get HSIO info by date 130725
+2013-07-28 22:18:58.282000::Get 97499 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130725.htm
+2013-07-28 22:18:58.282000::Get HSIO info size::97499
+2013-07-28 22:18:58.291000::Get HSIO clear info 0 lines
+2013-07-28 22:18:58.744000::Get HSIO info by date 130724
+2013-07-28 22:18:59.403000::Get 97315 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130724.htm
+2013-07-28 22:18:59.403000::Get HSIO info size::97315
+2013-07-28 22:18:59.411000::Get HSIO clear info 0 lines
+2013-07-28 22:21:13.681000::Get HSIO info by date 130728
+2013-07-28 22:21:14.285000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130728.htm
+2013-07-28 22:21:14.285000::Get HSIO info by date 130727
+2013-07-28 22:21:14.527000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130727.htm
+2013-07-28 22:21:14.527000::Get HSIO info by date 130726
+2013-07-28 22:21:15.425000::Get 97499 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130726.htm
+2013-07-28 22:21:15.425000::Get HSIO info size::97499
+2013-07-28 22:21:15.435000::Get HSIO clear info 938 lines
+2013-07-28 22:21:15.436000::Get HSIO info by date 130725
+2013-07-28 22:21:16.803000::Get 97499 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130725.htm
+2013-07-28 22:21:16.804000::Get HSIO info size::97499
+2013-07-28 22:21:16.813000::Get HSIO clear info 938 lines
+2013-07-28 22:21:16.813000::Get HSIO info by date 130724
+2013-07-28 22:21:17.703000::Get 97315 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130724.htm
+2013-07-28 22:21:17.703000::Get HSIO info size::97315
+2013-07-28 22:21:17.712000::Get HSIO clear info 936 lines
+2013-07-28 22:22:05.095000::Get HSIO info by date 130728
+2013-07-28 22:22:05.277000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130728.htm
+2013-07-28 22:22:05.278000::Get HSIO info by date 130727
+2013-07-28 22:22:05.454000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130727.htm
+2013-07-28 22:22:05.454000::Get HSIO info by date 130726
+2013-07-28 22:22:06.095000::Get 97499 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130726.htm
+2013-07-28 22:22:06.095000::Get HSIO info size::97499
+2013-07-28 22:22:06.105000::Get HSIO clear info 938 lines
+2013-07-28 22:22:06.106000::Get HSIO info by date 130725
+2013-07-28 22:22:06.751000::Get 97499 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130725.htm
+2013-07-28 22:22:06.751000::Get HSIO info size::97499
+2013-07-28 22:22:06.760000::Get HSIO clear info 938 lines
+2013-07-28 22:22:06.761000::Get HSIO info by date 130724
+2013-07-28 22:22:07.510000::Get 97315 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130724.htm
+2013-07-28 22:22:07.510000::Get HSIO info size::97315
+2013-07-28 22:22:07.519000::Get HSIO clear info 936 lines
+2013-07-28 22:22:07.519000::Get HSIO info by date 130723
+2013-07-28 22:22:08.752000::Get 96947 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130723.htm
+2013-07-28 22:22:08.752000::Get HSIO info size::96947
+2013-07-28 22:22:08.761000::Get HSIO clear info 932 lines
+2013-07-28 22:22:08.801000::Get HSIO info by date 130722
+2013-07-28 22:22:10.105000::Get 96947 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130722.htm
+2013-07-28 22:22:10.106000::Get HSIO info size::96947
+2013-07-28 22:22:10.115000::Get HSIO clear info 932 lines
+2013-07-28 22:22:10.116000::Get HSIO info by date 130721
+2013-07-28 22:22:10.294000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130721.htm
+2013-07-28 22:22:10.294000::Get HSIO info by date 130720
+2013-07-28 22:22:10.475000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130720.htm
+2013-07-28 22:22:10.475000::Get HSIO info by date 130719
+2013-07-28 22:22:11.641000::Get 96947 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130719.htm
+2013-07-28 22:22:11.642000::Get HSIO info size::96947
+2013-07-28 22:22:11.650000::Get HSIO clear info 932 lines
+2013-07-28 22:22:11.652000::Get HSIO info by date 130718
+2013-07-28 22:22:12.353000::Get 96947 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130718.htm
+2013-07-28 22:22:12.353000::Get HSIO info size::96947
+2013-07-28 22:22:12.362000::Get HSIO clear info 932 lines
+2013-07-28 22:22:12.364000::Get HSIO info by date 130717
+2013-07-28 22:22:13.014000::Get 96947 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130717.htm
+2013-07-28 22:22:13.014000::Get HSIO info size::96947
+2013-07-28 22:22:13.023000::Get HSIO clear info 932 lines
+2013-07-28 22:22:13.024000::Get HSIO info by date 130716
+2013-07-28 22:22:13.699000::Get 96947 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130716.htm
+2013-07-28 22:22:13.699000::Get HSIO info size::96947
+2013-07-28 22:22:13.708000::Get HSIO clear info 932 lines
+2013-07-28 22:22:13.709000::Get HSIO info by date 130715
+2013-07-28 22:22:14.595000::Get 96947 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130715.htm
+2013-07-28 22:22:14.596000::Get HSIO info size::96947
+2013-07-28 22:22:14.604000::Get HSIO clear info 932 lines
+2013-07-28 22:22:14.606000::Get HSIO info by date 130714
+2013-07-28 22:22:14.782000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130714.htm
+2013-07-28 22:22:14.782000::Get HSIO info by date 130713
+2013-07-28 22:22:14.959000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130713.htm
+2013-07-28 22:22:14.959000::Get HSIO info by date 130712
+2013-07-28 22:22:15.652000::Get 96947 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130712.htm
+2013-07-28 22:22:15.652000::Get HSIO info size::96947
+2013-07-28 22:22:15.661000::Get HSIO clear info 932 lines
+2013-07-28 22:22:15.662000::Get HSIO info by date 130711
+2013-07-28 22:22:17.134000::Get 96395 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130711.htm
+2013-07-28 22:22:17.134000::Get HSIO info size::96395
+2013-07-28 22:22:17.143000::Get HSIO clear info 926 lines
+2013-07-28 22:22:17.145000::Get HSIO info by date 130710
+2013-07-28 22:22:17.813000::Get 96395 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130710.htm
+2013-07-28 22:22:17.814000::Get HSIO info size::96395
+2013-07-28 22:22:17.822000::Get HSIO clear info 926 lines
+2013-07-28 22:22:17.823000::Get HSIO info by date 130709
+2013-07-28 22:22:18.492000::Get 96395 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130709.htm
+2013-07-28 22:22:18.492000::Get HSIO info size::96395
+2013-07-28 22:22:18.501000::Get HSIO clear info 926 lines
+2013-07-28 22:22:18.502000::Get HSIO info by date 130708
+2013-07-28 22:22:19.202000::Get 96395 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130708.htm
+2013-07-28 22:22:19.202000::Get HSIO info size::96395
+2013-07-28 22:22:19.211000::Get HSIO clear info 926 lines
+2013-07-28 22:22:19.213000::Get HSIO info by date 130707
+2013-07-28 22:22:19.394000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130707.htm
+2013-07-28 22:22:19.394000::Get HSIO info by date 130706
+2013-07-28 22:22:19.564000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130706.htm
+2013-07-28 22:22:19.564000::Get HSIO info by date 130705
+2013-07-28 22:22:20.281000::Get 96395 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130705.htm
+2013-07-28 22:22:20.281000::Get HSIO info size::96395
+2013-07-28 22:22:20.290000::Get HSIO clear info 926 lines
+2013-07-28 22:22:20.292000::Get HSIO info by date 130704
+2013-07-28 22:22:21.887000::Get 96395 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130704.htm
+2013-07-28 22:22:21.887000::Get HSIO info size::96395
+2013-07-28 22:22:21.896000::Get HSIO clear info 926 lines
+2013-07-28 22:22:21.897000::Get HSIO info by date 130703
+2013-07-28 22:22:22.597000::Get 96211 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130703.htm
+2013-07-28 22:22:22.597000::Get HSIO info size::96211
+2013-07-28 22:22:22.606000::Get HSIO clear info 924 lines
+2013-07-28 22:22:22.607000::Get HSIO info by date 130702
+2013-07-28 22:22:23.278000::Get 94187 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130702.htm
+2013-07-28 22:22:23.278000::Get HSIO info size::94187
+2013-07-28 22:22:23.286000::Get HSIO clear info 902 lines
+2013-07-28 22:22:23.287000::Get HSIO info by date 130701
+2013-07-28 22:22:23.461000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130701.htm
+2013-07-28 22:22:23.461000::Get HSIO info by date 130630
+2013-07-28 22:22:23.645000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130630.htm
+2013-07-28 22:22:23.645000::Get HSIO info by date 130629
+2013-07-28 22:22:23.816000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130629.htm
+2013-07-28 22:22:23.816000::Get HSIO info by date 130628
+2013-07-28 22:22:25.567000::Get 93819 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130628.htm
+2013-07-28 22:22:25.568000::Get HSIO info size::93819
+2013-07-28 22:22:25.576000::Get HSIO clear info 898 lines
+2013-07-28 22:22:25.577000::Get HSIO info by date 130627
+2013-07-28 22:22:26.244000::Get 99891 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130627.htm
+2013-07-28 22:22:26.244000::Get HSIO info size::99891
+2013-07-28 22:22:26.253000::Get HSIO clear info 964 lines
+2013-07-28 22:22:26.255000::Get HSIO info by date 130626
+2013-07-28 22:22:26.945000::Get 99891 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130626.htm
+2013-07-28 22:22:26.945000::Get HSIO info size::99891
+2013-07-28 22:22:26.955000::Get HSIO clear info 964 lines
+2013-07-28 22:22:26.956000::Get HSIO info by date 130625
+2013-07-28 22:22:28.029000::Get 99891 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130625.htm
+2013-07-28 22:22:28.029000::Get HSIO info size::99891
+2013-07-28 22:22:28.039000::Get HSIO clear info 964 lines
+2013-07-28 22:22:28.040000::Get HSIO info by date 130624
+2013-07-28 22:22:32.127000::Get 99339 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130624.htm
+2013-07-28 22:22:32.127000::Get HSIO info size::99339
+2013-07-28 22:22:32.137000::Get HSIO clear info 958 lines
+2013-07-28 22:22:32.139000::Get HSIO info by date 130623
+2013-07-28 22:22:32.304000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130623.htm
+2013-07-28 22:22:32.304000::Get HSIO info by date 130622
+2013-07-28 22:22:32.481000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130622.htm
+2013-07-28 22:22:32.481000::Get HSIO info by date 130621
+2013-07-28 22:22:33.135000::Get 99339 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130621.htm
+2013-07-28 22:22:33.135000::Get HSIO info size::99339
+2013-07-28 22:22:33.144000::Get HSIO clear info 958 lines
+2013-07-28 22:22:33.145000::Get HSIO info by date 130620
+2013-07-28 22:22:33.796000::Get 98419 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130620.htm
+2013-07-28 22:22:33.796000::Get HSIO info size::98419
+2013-07-28 22:22:33.805000::Get HSIO clear info 948 lines
+2013-07-28 22:22:33.806000::Get HSIO info by date 130619
+2013-07-28 22:22:34.749000::Get 98419 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130619.htm
+2013-07-28 22:22:34.749000::Get HSIO info size::98419
+2013-07-28 22:22:34.758000::Get HSIO clear info 948 lines
+2013-07-28 22:22:34.759000::Get HSIO info by date 130618
+2013-07-28 22:22:35.446000::Get 98419 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130618.htm
+2013-07-28 22:22:35.446000::Get HSIO info size::98419
+2013-07-28 22:22:35.455000::Get HSIO clear info 948 lines
+2013-07-28 22:22:35.456000::Get HSIO info by date 130617
+2013-07-28 22:22:36.102000::Get 98419 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130617.htm
+2013-07-28 22:22:36.102000::Get HSIO info size::98419
+2013-07-28 22:22:36.111000::Get HSIO clear info 948 lines
+2013-07-28 22:22:36.112000::Get HSIO info by date 130616
+2013-07-28 22:22:36.299000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130616.htm
+2013-07-28 22:22:36.299000::Get HSIO info by date 130615
+2013-07-28 22:22:36.466000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130615.htm
+2013-07-28 22:22:36.466000::Get HSIO info by date 130614
+2013-07-28 22:22:37.509000::Get 98419 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130614.htm
+2013-07-28 22:22:37.509000::Get HSIO info size::98419
+2013-07-28 22:22:37.518000::Get HSIO clear info 948 lines
+2013-07-28 22:22:37.519000::Get HSIO info by date 130613
+2013-07-28 22:22:38.286000::Get 95475 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130613.htm
+2013-07-28 22:22:38.286000::Get HSIO info size::95475
+2013-07-28 22:22:38.296000::Get HSIO clear info 916 lines
+2013-07-28 22:22:38.296000::Get HSIO info by date 130612
+2013-07-28 22:22:38.463000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130612.htm
+2013-07-28 22:22:38.463000::Get HSIO info by date 130611
+2013-07-28 22:22:39.126000::Get 95475 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130611.htm
+2013-07-28 22:22:39.127000::Get HSIO info size::95475
+2013-07-28 22:22:39.135000::Get HSIO clear info 916 lines
+2013-07-28 22:22:39.136000::Get HSIO info by date 130610
+2013-07-28 22:22:43.189000::Get 93267 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130610.htm
+2013-07-28 22:22:43.189000::Get HSIO info size::93267
+2013-07-28 22:22:43.197000::Get HSIO clear info 892 lines
+2013-07-28 22:22:43.198000::Get HSIO info by date 130609
+2013-07-28 22:22:43.365000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130609.htm
+2013-07-28 22:22:43.365000::Get HSIO info by date 130608
+2013-07-28 22:22:43.542000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130608.htm
+2013-07-28 22:22:43.542000::Get HSIO info by date 130607
+2013-07-28 22:22:44.195000::Get 92715 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130607.htm
+2013-07-28 22:22:44.195000::Get HSIO info size::92715
+2013-07-28 22:22:44.204000::Get HSIO clear info 886 lines
+2013-07-28 22:22:44.205000::Get HSIO info by date 130606
+2013-07-28 22:22:45.124000::Get 90691 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130606.htm
+2013-07-28 22:22:45.124000::Get HSIO info size::90691
+2013-07-28 22:22:45.133000::Get HSIO clear info 864 lines
+2013-07-28 22:22:45.134000::Get HSIO info by date 130605
+2013-07-28 22:22:46.311000::Get 85171 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130605.htm
+2013-07-28 22:22:46.311000::Get HSIO info size::85171
+2013-07-28 22:22:46.319000::Get HSIO clear info 804 lines
+2013-07-28 22:22:46.320000::Get HSIO info by date 130604
+2013-07-28 22:22:47.058000::Get 85171 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130604.htm
+2013-07-28 22:22:47.058000::Get HSIO info size::85171
+2013-07-28 22:22:47.066000::Get HSIO clear info 804 lines
+2013-07-28 22:22:47.067000::Get HSIO info by date 130603
+2013-07-28 22:22:48.479000::Get 85171 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130603.htm
+2013-07-28 22:22:48.480000::Get HSIO info size::85171
+2013-07-28 22:22:48.487000::Get HSIO clear info 804 lines
+2013-07-28 22:22:48.488000::Get HSIO info by date 130602
+2013-07-28 22:22:48.694000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130602.htm
+2013-07-28 22:22:48.694000::Get HSIO info by date 130601
+2013-07-28 22:22:48.878000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130601.htm
+2013-07-28 22:22:48.879000::Get HSIO info by date 130531
+2013-07-28 22:22:49.650000::Get 85171 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130531.htm
+2013-07-28 22:22:49.650000::Get HSIO info size::85171
+2013-07-28 22:22:49.658000::Get HSIO clear info 804 lines
+2013-07-28 22:22:49.659000::Get HSIO info by date 130530
+2013-07-28 22:22:50.415000::Get 89035 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130530.htm
+2013-07-28 22:22:50.415000::Get HSIO info size::89035
+2013-07-28 22:22:50.423000::Get HSIO clear info 846 lines
+2013-07-28 22:22:50.424000::Get HSIO info by date 130529
+2013-07-28 22:22:51.077000::Get 89035 bits msg from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130529.htm
+2013-07-28 22:22:51.077000::Get HSIO info size::89035
+2013-07-28 22:22:51.086000::Get HSIO clear info 846 lines
+2013-07-28 22:22:51.088000::Get HSIO info by date 130528
+2013-07-28 22:22:51.301000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130528.htm
+2013-07-28 22:22:51.301000::Get HSIO info by date 130527
+2013-07-28 22:22:51.481000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130527.htm
+2013-07-28 22:22:51.481000::Get HSIO info by date 130526
+2013-07-28 22:22:51.656000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130526.htm
+2013-07-28 22:22:51.657000::Get HSIO info by date 130525
+2013-07-28 22:22:51.826000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130525.htm
+2013-07-28 22:22:51.826000::Get HSIO info by date 130524
+2013-07-28 22:22:52.008000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130524.htm
+2013-07-28 22:22:52.008000::Get HSIO info by date 130523
+2013-07-28 22:22:52.180000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130523.htm
+2013-07-28 22:22:52.180000::Get HSIO info by date 130522
+2013-07-28 22:22:52.347000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130522.htm
+2013-07-28 22:22:52.347000::Get HSIO info by date 130521
+2013-07-28 22:22:52.525000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130521.htm
+2013-07-28 22:22:52.525000::Get HSIO info by date 130520
+2013-07-28 22:22:52.694000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130520.htm
+2013-07-28 22:22:52.694000::Get HSIO info by date 130519
+2013-07-28 22:22:52.865000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130519.htm
+2013-07-28 22:22:52.865000::Get HSIO info by date 130518
+2013-07-28 22:22:53.048000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130518.htm
+2013-07-28 22:22:53.048000::Get HSIO info by date 130517
+2013-07-28 22:22:53.233000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130517.htm
+2013-07-28 22:22:53.233000::Get HSIO info by date 130516
+2013-07-28 22:22:53.410000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130516.htm
+2013-07-28 22:22:53.410000::Get HSIO info by date 130515
+2013-07-28 22:22:53.588000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130515.htm
+2013-07-28 22:22:53.588000::Get HSIO info by date 130514
+2013-07-28 22:22:53.757000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130514.htm
+2013-07-28 22:22:53.757000::Get HSIO info by date 130513
+2013-07-28 22:22:53.933000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130513.htm
+2013-07-28 22:22:53.933000::Get HSIO info by date 130512
+2013-07-28 22:22:54.112000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130512.htm
+2013-07-28 22:22:54.112000::Get HSIO info by date 130511
+2013-07-28 22:22:54.279000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130511.htm
+2013-07-28 22:22:54.279000::Get HSIO info by date 130510
+2013-07-28 22:22:54.449000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130510.htm
+2013-07-28 22:22:54.449000::Get HSIO info by date 130509
+2013-07-28 22:22:54.628000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130509.htm
+2013-07-28 22:22:54.628000::Get HSIO info by date 130508
+2013-07-28 22:22:54.808000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130508.htm
+2013-07-28 22:22:54.808000::Get HSIO info by date 130507
+2013-07-28 22:22:54.982000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130507.htm
+2013-07-28 22:22:54.982000::Get HSIO info by date 130506
+2013-07-28 22:22:55.191000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130506.htm
+2013-07-28 22:22:55.191000::Get HSIO info by date 130505
+2013-07-28 22:22:55.362000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130505.htm
+2013-07-28 22:22:55.362000::Get HSIO info by date 130504
+2013-07-28 22:22:55.530000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130504.htm
+2013-07-28 22:22:55.530000::Get HSIO info by date 130503
+2013-07-28 22:22:55.715000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130503.htm
+2013-07-28 22:22:55.715000::Get HSIO info by date 130502
+2013-07-28 22:22:55.889000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130502.htm
+2013-07-28 22:22:55.889000::Get HSIO info by date 130501
+2013-07-28 22:22:56.058000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130501.htm
+2013-07-28 22:22:56.058000::Get HSIO info by date 130430
+2013-07-28 22:22:59.231000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130430.htm
+2013-07-28 22:22:59.231000::Get HSIO info by date 130429
+2013-07-28 22:22:59.495000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130429.htm
+2013-07-28 22:22:59.495000::Get HSIO info by date 130428
+2013-07-28 22:22:59.750000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130428.htm
+2013-07-28 22:22:59.750000::Get HSIO info by date 130427
+2013-07-28 22:22:59.995000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130427.htm
+2013-07-28 22:22:59.995000::Get HSIO info by date 130426
+2013-07-28 22:23:00.262000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130426.htm
+2013-07-28 22:23:00.262000::Get HSIO info by date 130425
+2013-07-28 22:23:00.523000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130425.htm
+2013-07-28 22:23:00.523000::Get HSIO info by date 130424
+2013-07-28 22:23:00.772000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130424.htm
+2013-07-28 22:23:00.773000::Get HSIO info by date 130423
+2013-07-28 22:23:01.020000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130423.htm
+2013-07-28 22:23:01.021000::Get HSIO info by date 130422
+2013-07-28 22:23:01.280000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130422.htm
+2013-07-28 22:23:01.280000::Get HSIO info by date 130421
+2013-07-28 22:23:01.524000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130421.htm
+2013-07-28 22:23:01.524000::Get HSIO info by date 130420
+2013-07-28 22:23:01.783000::Get sth wrong from http://www.hkex.com.hk/eng/stat/dmstat/dayrpt/hsio130420.htm
